@@ -7,3 +7,4 @@ basic model of rnn,
 sentiment analysis,
 wordembeddings using skipgram,
 ganmnist.
+![NEURALNET](NEURALNET.jpg)
